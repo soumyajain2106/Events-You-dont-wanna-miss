@@ -10,7 +10,7 @@ Tech Stack : Frontend based (React)
 
 Installation:
 Clone the repository:
-git clone https://github.com/<your-username>/excella.git
+git clone https://github.com/<your-username>/projectname.git
 cd Events-You dont wanna miss
 Install dependencies:
 npm install
